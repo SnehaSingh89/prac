@@ -2,5 +2,5 @@ print("my name is John")
 print("I am 25 years old")
 print("I am a automation engineer")
 a="Hello, World! what's going on?"
-b="Hello, everyone! how are you?"
+b="Hello, everyone! "
 
